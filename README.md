@@ -1,4 +1,5 @@
 # Project Portfolio
+Below are the projects I worked on for the past 6 years. I was the technical project manager for the majority of these projects where I was involved from the start upto tapeout. In some of these, I was involved as technical resource mainly in charge of parasitic extraction, simulations and design review.
 ![](20230425213437.png)
 
 # On-going Projects
