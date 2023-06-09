@@ -9,13 +9,17 @@ In some of these, I was involved as technical resource mainly in charge of paras
 3. Physical Design training for freshers
 4. Formal verification of low power design
 
+# PMI Project Experience
+Provide a high-level description that summarizes your experience and includes the project objective, outcome, your role on the project, and your responsibilities and deliverables. A typical response is between 200 to 500 words.
+
 # MTC 3V, DTC 3V - 2020
 Schedule: Jan 2020 - June 2020 (6 months)
-The primary goal of the project was to create the physical implementation of two memory chips designed by our client. 
-This was the first time that our company was tasked to deliver two chips with the schedule of one. To meet the project deliverables and schedule, I added more people to the team which increased the budget for human resources and workstations. 
-Since the two designs are completely independent of each other (i.e. no common components or dependent deliverables), I was able to manage the teams separately. 
-To track project progress, I created separate Gantt charts and task trackers for each team. 
-I updated the charts and trackers daily
+The primary goal of the project was to create the physical implementation of two memory chips designed by our client. This was the first time that our company was asked to deliver two chips within a schedule of one. 
+To meet the project deliverables and schedule, I added more people to the team which increased the budget for human resources and workstations. 
+Since the two designs are completely independent of each other (i.e. no common components or dependent deliverables), I was able to manage the teams separately. I held daily stand ups for each team separately then we have all-hands meeting every other Friday afternoon so that the two teams can have a venue to share knowledge and methodologies.
+To track project progress, I created separate Gantt charts and task trackers for each team. I updated the charts and trackers daily and every after team meetings. This ensured that teams gets the most updated information about the project which was crucial to keep everyone aligned.
+Whenever I saw an opportunity to create slack in schedule, I made sure that we grab it. This was important because based from our experience, the client tends to do design changes towards the project deadline which leads to people working extended hours. By creating schedule slack, we ensured that towards the end of the project, we had the bandwidth to accommodate changes without negative impact on schedule. 
+In the end, the team was able to meet the deadlines. We were able to provide the client with two memory chips within the schedule 
 
 # 64Mb, 16Mb - 2022
 Schedule: Jan 2022 - Dec 2022 (12 months)
