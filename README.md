@@ -12,6 +12,21 @@ In some of these, I was involved as technical resource mainly in charge of paras
 # PMI Project Experience
 Provide a high-level description that summarizes your experience and includes the project objective, outcome, your role on the project, and your responsibilities and deliverables. A typical response is between 200 to 500 words.
 
+# Outline Flow
+1. Project goal
+2. Project schedule (mention numbers)
+3. Project budget and resources (mention numbers)
+4. Challenges
+5. Lessons learned
+
+# MTC 1.8V, DTC 1.8V - 2019
+Schedule: Sept 2019 - Dec 2019 (4 months)
+Transition of design from 28nm to 22nm with major modifications.
+People: 17 people
+Budget: 125k USD
+Actual: 136k USD (overtime work)
+Challenges: Setting up new PDK and libraries (from 28nm to 22nm), transitioning designs from 28nm to 22nm, 
+
 # MTC 3V, DTC 3V - 2020
 Schedule: Jan 2020 - June 2020 (6 months)
 The primary goal of the project was to create the physical implementation of two memory chips designed by our client. This was the first time that our company was asked to deliver two chips within a schedule of one. 
@@ -32,3 +47,7 @@ Schedule:
 
 # 1Gb - 2020 to 2021
 Schedule: Oct 2020 
+
+# MTC3V, MTC1.8V - 2020
+All layer retapeout and redesign
+July 20 to Sept 30
