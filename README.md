@@ -13,7 +13,7 @@ In some of these, I was involved as technical resource mainly in charge of paras
 Provide a high-level description that summarizes your experience and includes the project objective, outcome, your role on the project, and your responsibilities and deliverables. A typical response is between 200 to 500 words.
 Focus on the work you have done in leading, managing and directing projects. Highlight the skills you learned in different domains and activities in project management.
 Good experience
-Developed project charter, developed WBS, used critical path method, held daily stand ups, created standards for communications, analyzed stakeholders
+Developed project charter, developed WBS, used critical path method, held daily stand ups, created standards for communications, analyzed stakeholders, guided the team through changes
 
 # Audit
 You may need to provide documents, timesheets etc to PMI. Prepare the emails showing real project start and project closure. 
@@ -28,6 +28,18 @@ You may need to provide documents, timesheets etc to PMI. Prepare the emails sho
 7. Include major activities in initiation stage, planning stage, execution stage, monitoring and controlling stage, and closing stage.
 8. Add link to signature of Sir Bong proving the statements.
 
+
+# Example
+Design of training material for customers on telecommunications principles
+Objective: to research, design and present training material in the form of presentations aimed at educating new resellers on fundamental telecoms principles and standards.
+Role: I managed the whole project
+Initiation Phase: Developed the charter and identified key stakeholders
+Planning Phase: Planned the scope of the project while considering time and cost and quality
+Execution Phase: Coordinated the execution of the research and development of the material by graphic designers.
+Managing/Control Phase: Monitored the schedule and quality
+Closing Phase: Documented the project closure
+Outcomes: Materials presented at conference
+
 # MTC 1.8V 28nm - 2018 to 2019
 Schedule: Nov 2018 - May 2019 (Initially 5 months, then changed to 7 months)
 People: 10 + PL 
@@ -35,6 +47,12 @@ Budget: 110k USD
 Actual: 154k USD
 Challenges: First project lead experience for Xinyx, Standard cell layout AVUMC_STDCELL_v18, Full chip PNR, Layout all blocks from scratch, Versioning system, No project management mentor 
 Collaterals: 35 presentations, 12 technical documents, 1 project worksheet, 1 project directory, bi-weekly meeting notes, 400+ emails (includes daily email updates)
+Role: I managed and led the whole project from start to finish.
+IN: developed project charter and identified key stakeholders
+PL: planned the scope of project, budget, resources, developed wbs
+EX: coordinated the project tasks
+MC: monitored the schedule, controlled the scope changes
+CL: documented the project, turned over the deliverables to client
 
 # MTC 1.8V, DTC 1.8V 22nm - 2019
 Schedule: Sept 2019 - Dec 2019 (4 months)
