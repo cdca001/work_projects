@@ -27,6 +27,7 @@ You may need to provide documents, timesheets etc to PMI. Prepare the emails sho
 6. PM deliverables/collaterals
 7. Include major activities in initiation stage, planning stage, execution stage, monitoring and controlling stage, and closing stage.
 8. Add link to signature of Sir Bong proving the statements.
+9. Create github page of project docs (timeline, stakeholders, charter, scope document, quality checklists, costs, etc)
 
 
 # Example
@@ -47,6 +48,7 @@ Budget: 110k USD
 Actual: 154k USD
 Challenges: First project lead experience for Xinyx, Standard cell layout AVUMC_STDCELL_v18, Full chip PNR, Layout all blocks from scratch, Versioning system, No project management mentor 
 Collaterals: 35 presentations, 12 technical documents, 1 project worksheet, 1 project directory, bi-weekly meeting notes, 400+ emails (includes daily email updates)
+Objective: Create physical implementation of test chip in 28nm
 Role: I managed and led the whole project from start to finish.
 IN: developed project charter and identified key stakeholders
 PL: planned the scope of project, budget, resources, developed wbs
